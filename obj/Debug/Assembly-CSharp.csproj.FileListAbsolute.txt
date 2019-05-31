@@ -1,0 +1,2 @@
+D:\Project\ZeroFrame\Zero-master\UnityProject\Zero\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Project\ZeroFrame\Zero-master\UnityProject\Zero\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
